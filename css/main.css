@@ -9441,5 +9441,5 @@ header.open .header-menu {
             font-size: 1rem; } }
     .home-contact .contact-info .item:hover .icon {
       background: #ffcd3a; }
-
+.detail-profile span { display:  inline-block;padding-right: 20px; }
 /*# sourceMappingURL=main.css.map */
